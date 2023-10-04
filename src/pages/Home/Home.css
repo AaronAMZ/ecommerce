@@ -1,0 +1,16 @@
+.home_container {
+    display: grid;
+    grid-template-columns: minmax(20%, 200px) 1fr;
+}
+
+.search {
+    margin-top: 21px;
+    margin-left: 40px;
+}
+
+.search input {
+    border-radius: 5px;
+    border-style: none;
+    padding: 10px 20px 10px 2%;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.product_list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.product_list_item {
+    width: 100%;
+    max-width: 300px;
+    list-style: none;
+}
